@@ -6,7 +6,6 @@ Step #1 - Install mini conda (downloadable from here)
 
 Step #2 - Install numpy in a virtualenv
 
-Run with build_your_own in active directory 
 
 *remember to activate virtualenv to access dependencies*
 

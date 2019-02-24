@@ -2,7 +2,7 @@
 Usage / Dependencies
 --------------------
 
-Step #1 - Install mini conda
+Step #1 - Install mini conda (downloadable from here) 
 
 Step #2 - Install numpy in a virtualenv
 

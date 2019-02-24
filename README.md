@@ -1,3 +1,4 @@
+Code from an 'end-to-end' Machine Learning course via Udemy, by FB Data Scientist Brandon Roher 
 
 Usage / Dependencies
 --------------------
